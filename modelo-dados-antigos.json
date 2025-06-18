@@ -1,0 +1,41 @@
+{
+  "ag_profissionai": {
+    "cod_especialidade": "10",
+    "especialidade": {
+        "cod_especialidade": "10",
+        "nome_especialidade": "ENFERMAGEM"
+    },
+    "id_profissional": 3,
+    "nome_profissional": "LUCAS SANTOS ANDRADE"
+  }, 
+  "cor": "#0d9daf",
+  "data_fim": "2025-06-07T20:00:00.000Z",
+  "data_inicio": "2025-06-07T19:30:00.000Z",
+  "descricao_complementar": "Consulta marcada por telefone",
+  "id_agenda": 2,
+  "id_procedimento": 3,
+  "id_profissional": 3,
+  "procedimento": {
+    "cod_especialidade": "10",
+    "especialidade": {
+        "cod_especialidade": "10",
+        "nome_especialidade": "ENFERMAGEM"
+    },
+    "id_procedimento": 3,
+    "procedimento": "COLETA DE SANGUE PARA HEMOGRAMA COMPLETO"
+  },
+  "situacao": false,
+  "titulo_agenda": "COLETA DE SANGUE PARA HEMOGRAMA COMPLETO com ENFERMAGEM  - LUCAS SANTOS ANDRADE",
+  "transporte": true
+},
+{
+  "ag_profissionai": {}, 
+  "data_fim": "2025-06-07T20:00:00.000Z",
+  "data_inicio": "2025-06-07T19:30:00.000Z",
+  "descricao_complementar": "Consulta marcada por telefone",
+  "id_agenda": 2,
+  "id_procedimento": 3,
+  "id_profissional": 3,
+  "procedimento": {},
+  "transporte": true
+}
