@@ -146,7 +146,7 @@ export default function ScheduleScreen() {
         <View
           style={isNarrow ? styles.listContainer : styles.sideListContainer}
         >
-          <CreateAppointmentForm />
+          {/* <CreateAppointmentForm /> */}
           {selectedDate ? (
             <>
               <DateHeader dateString={selectedDate} />
